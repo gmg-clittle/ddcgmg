@@ -1,0 +1,56 @@
+<style>
+  // Relocate to SRP CSS when created //
+ div.ddc-content.ws-dealernotes, div.facet-list-group.panel.panel-default, div.ddc-content.ws-detailed-specs {
+  background-color: #f3f3f3;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 32px;
+  padding-bottom: 32px
+  
+}
+  
+.header-contact {
+  background-color: #072a60;
+}
+
+  
+.page-header.minimal.true-minimal.mycars-navbar-enabled.sticky-header-nav .navbar-nav a {
+  color: #072a60 !important;
+  font-weight: 600;
+}
+  
+.page-header.minimal .header-contact {
+    background-color: #072a60 !important;
+  }
+ 
+#bannerDisclaimer {
+    font-size: 15.75px;
+    line-height: 1.2;
+    font-style: italic;
+    text-align: justify;
+    color: rgba(0,0,0,0.6)
+}
+  
+.in-transit-garber-container {
+    background-color: #f7fafc; /* gray-100 equivalent */
+    padding: 16px; /* p-4 equivalent */
+    max-width: 640px; /* max-w-sm equivalent */
+    margin: 0 auto; /* mx-auto equivalent */
+    border-radius: 0.5rem; /* rounded-lg equivalent */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* shadow-md equivalent */
+    display: flex;
+    align-items: center; /* items-center equivalent */
+    justify-content: center; /* justify-center equivalent */
+  }
+
+.in-transit-garber-text {
+    color: #072a60; /* text-gray-600 equivalent */
+    font-weight: 600; /* font-semibold equivalent */
+    font-size: 1.125rem; /* text-lg equivalent */
+  }
+  
+  .cbo-garage {
+        display: none !important;
+    }
+
+</style>

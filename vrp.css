@@ -1,0 +1,114 @@
+<style>
+  div.border-bottom.border-page-title.bg-page-title.page-section, div.bg-page-title.page-section {
+  background-color:#072a60 !important
+}
+
+h1.spacing-reset {
+  color: white !important
+}
+
+span.d-none.d-sm-inline {
+  color: white !important
+}
+  
+ul.facet-filter-list li.my-1 strong span {
+color: white !important
+  }
+  
+  ul.facet-filter-list li:last-child button {
+color: white !important}
+ 
+
+button.swal2-confirm.swal2-styled {
+          background-color: #072a60;
+        border-color: #072a60; 
+}
+
+h2.swal2-title {
+  color: #072a60
+}
+  
+  .facet-filters.fixed-top {
+    background-color: #072a60 !important;
+}
+  
+    #getYourOfferForm .form-label {
+        font-weight: bold;
+        color: #072a60; 
+}
+
+    #getYourOfferForm .btn-primary {
+        background-color: #072a60;
+        border-color: #072a60; 
+}
+  
+/* Scoped styles to SweetAlert2 popup */
+.swal2-popup {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  color: #333;
+  font-size: 16px;
+  padding: 25px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 12px 24px 0 rgba(0,0,0,0.15);
+}
+
+.swal2-popup .swal2-title {
+  font-size: 1.6em;
+  color: #072a60; /* Main color for the title */
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+
+.swal2-popup input.form-control,
+.swal2-popup textarea.form-control {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 1em;
+  border: 1px solid #dcdcdc;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: #f7f7f7;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.swal2-popup input.form-control:focus,
+.swal2-popup textarea.form-control:focus {
+  border-color: #072a60; /* Main color for focus */
+  box-shadow: inset 0 1px 8px rgba(7, 42, 96, 0.1), 0 0 4px rgba(7, 42, 96, 0.1);
+  outline: none;
+}
+
+.swal2-popup button.swal2-confirm {
+  font-size: 1em;
+  background-color: #072a60; /* Main color for the button */
+  color: #ffffff;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.swal2-popup button.swal2-confirm:hover,
+.swal2-popup button.swal2-confirm:focus {
+  background-color: #051c40; /* Darker shade for hover/focus */
+  box-shadow: 0 4px 8px rgba(7, 42, 96, 0.3);
+}
+
+.swal2-popup .swal2-actions {
+  justify-content: center;
+}
+
+.swal2-popup .form-group {
+  margin-bottom: 1em;
+}
+
+.swal2-popup .label {
+  display: block;
+  margin-bottom: .5em;
+  color: #072a60; /* Main color for the label */
+}
+
+
+</style>

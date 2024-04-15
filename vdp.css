@@ -1,0 +1,75 @@
+<style>
+ div.ddc-content.ws-dealernotes, div.facet-list-group.panel.panel-default, div.ddc-content.ws-detailed-specs {
+  background-color: #f3f3f3;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 32px;
+  padding-bottom: 32px
+  
+}
+
+.vdp .inv-type-new.pricing-detail .msrp .price-value, .vdp .inv-type-new.pricing-detail .msrp .price-label {
+  color: red !important;
+}
+
+.vdp .inv-type-new.pricing-detail .msrp .price-value {
+    text-decoration: line-through;
+}
+
+.vdp .inv-type-new.pricing-detail .final-price .price-value, .vdp .inv-type-new.pricing-detail .final-price .price-label {
+  color: #072a60 !important;
+  font-weight: 700 !important;
+}
+  
+.vehicle-title {
+    color: #072a60;
+}
+  
+dl.pricing-detail.final-price dd button {
+    color: #072a60;
+}
+
+#vinId {
+    font-size: 8px;
+    margin-top: 20px;
+}
+  
+.bg-page-title.py-6 {
+  background-color: #072a60 !important;
+}
+
+.d-block.h4.text-muted.font-weight-normal.BLANK, .text-muted.font-weight-normal.BLANK, .ml-3.ctas-btn__label--desktop, i.ddc-icon.ddc-icon-mycars-outline-bell.ddc-icon-size-default, i.ddc-icon.ddc-icon-mycars-outline-bookmark.ddc-icon-size-default {
+  color: white !important;
+}
+
+  #vehicle-title1-app-root {
+    background-color: #072a60 !important;
+}
+
+  .bg-page-title.bg-top-30-border-page-title {
+  background-color: #072a60 !important;
+}
+  
+.bg-page-title.bg-top-30-border-page-title {
+    background: #072a60 !important;
+}
+  ul.additional-details li .chip.highlight-badge {
+    background-color: #ffffff; 
+    color: #072a60; 
+    border: 2px solid #072a60;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); 
+    font-weight: bold; 
+    transition: transform 0.3s ease; 
+}
+
+  @media (max-width: 768px) { 
+    i.ddc-icon.ddc-icon-mycars-outline-bookmark.ddc-icon-size-default {
+        color: #072a60 !important;
+    }
+
+    i.ddc-icon.ddc-icon-mycars-outline-bell.ddc-icon-size-default {
+        color: #072a60 !important;
+    }
+}
+
+</style>
